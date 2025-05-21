@@ -46,7 +46,7 @@ Here is the Entity Relationship Diagram for the data I'll be using:
 ![Database ER Diagram](Images/row_health_erd.png)
 
 
-You can view the data in greater detail [here](https://github.com/RENOYEGON/rowhealth/tree/main/data).
+You can view the data in greater detail [here](https://github.com/RENOYEGON/Row_health_wellness_program/tree/main/data).
 
 Also, a presentation on the main findings of this project can be found [here](https://docs.google.com/presentation/d/11FA9r6OCk6FSrHm_PUwGbBifPi8LwIvc/edit?usp=sharing&ouid=111038357376436866548&rtpof=true&sd=true).
 <br>
