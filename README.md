@@ -57,31 +57,31 @@ Also, a presentation on the main findings of this project can be found [here](ht
 
 ### SUMMARY:
 
-####  Product Claims Overview
+- ####  Product Claims Overview
 
-**Hair Growth Supplements** and **Vitamin B+ Advanced Complex** were our most claimed products with **20,854** and **14,088** claims respectively.**2021** recorded the most claims (**10,443**) out of all years.Most claims peaked during the months of **March** to **June**, and again in the last 2 months of each year.
+  - **Hair Growth Supplements** and **Vitamin B+ Advanced Complex** were our most claimed products with **20,854** and **14,088** claims respectively.**2021** recorded the most claims (**10,443**) out of all years.Most claims peaked during the months of **March** to **June**, and again in the last 2 months of each year.
 
 
-####  Product Value Stratification
-Top-performing high-value products included:
+- ####  Product Value Stratification
+  - Top-performing high-value products included:
 
-**SuperYou Stress Relief ($323.06 avg. claim)**,
+    **SuperYou Stress Relief ($323.06 avg. claim)**,
 **Essential Fatty Acids ($253.00)**,
 **Daily Synbiotic ($204.04)**
 The **Biotin Supplement II** and **Sample Pack** had **$0** in health reimbursements, most likely because they were trial offers.
 
-####  Campaign Performance Analysis
-From the **32** campaigns, **Product Promotion** topped with **16,897** statements that's (**29.1%**), and **Health Awareness** second with **11,895** statement (**20.5%**). When dividing by the number of campaigns, **Health Awareness** earned the highest amount of payouts per campaign, totaling **3,965** claims, compared to **Product Promotions** **2,816** claims.
+- ####  Campaign Performance Analysis
+   - From the **32** campaigns, **Product Promotion** topped with **16,897** statements that's (**29.1%**), and **Health Awareness** second with **11,895** statement (**20.5%**). When dividing by the number of campaigns, **Health Awareness** earned the highest amount of payouts per campaign, totaling **3,965** claims, compared to **Product Promotions** **2,816** claims.
 
-#### Top-performing individual campaigns included:
+- #### Top-performing individual campaigns included:
 
-**Health Awareness** and **Product Promotion** topped with over  **11k** claims
+  - **Health Awareness** and **Product Promotion** topped with over  **11k** claims
 Not many claims were made through Offer Announcements (only 166 total in 4 campaigns) or the Covid Awareness campaign (2,258 claims).
 
-#### Subscription Plan Trends
-More than **75%** of the total signups went to the **Silver** Plan, with **14,010** people choosing it. After the **Gold** Plan, there were **1,725** signups, but **Platinum** only attracted 12 people in **2021**.
+- #### Subscription Plan Trends
+  - More than **75%** of the total signups went to the **Silver** Plan, with **14,010** people choosing it. After the **Gold** Plan, there were **1,725** signups, but **Platinum** only attracted 12 people in **2021**.
 
-There were record numbers of customers, **5,154** in **2020**, probably as a result of pandemic-related concerns.App’s signups reduce, with just **865** people signing up in **2021**.
+  - There were record numbers of customers, **5,154** in **2020**, probably as a result of pandemic-related concerns.App’s signups reduce, with just **865** people signing up in **2021**.
 
 <b>Technical Analysis:</b><br>
 For this analysis, I used SQL.The SQL queries used include data aggregation with `COUNT()` and `AVG()`, date handling using `YEAR()`, `MONTH()`, and `DATEDIFF()`, and advanced window functions like `ROW_NUMBER()` and `LAG()`.Joins, CTEs, filtering, and sorting to extract business insights from claims and customer data.
