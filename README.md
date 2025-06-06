@@ -175,7 +175,6 @@ An interactive version of the above Tableau dashboard can be found [here](https:
 - <b>Expand Email Marketing for Engagement:</b> Experiment with A/B testing by sending half of the target group 15-20% more emails for 30 days (a modest increase but enough to produce a noticeable result if there is an impact). Compare customer acquisition and brand awareness metrics at the end of the test.
 - <b>Investigate the Family Coverage Plan Category:</b> It's perplexing that we’ve had over 1 million impressions without a single click. There’s a high possibility of an internal issue. Potential culprits include problems with event tracking, attribution, or data upload. Engaging our developers and data team for an in-depth examination of this anomaly is essential.
 - <b> Improve Data Quality and Include Other Dimensions:</b> Add revenue to calculate ROI. Add customer-specific dimensions (plan, state, signup platform) to better customize campaign recommendations. Investigate how run time affects KPIs.Also missing data, especially in key columns, may affect the accuracy of some findings.Adressing it  could improve the accuracy of the results.
-<br>
 <a id='section_6'></a>
 # Presentation Sample 
 [(Back to table of contents)](#table_of_contents)<br><br>
