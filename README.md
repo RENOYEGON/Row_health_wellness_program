@@ -5,7 +5,7 @@
 [Part 2: Marketing Campaign Analysis (Excel)](#section_3)<br>
 [Part 3: Visualizations (Tableau)](#section_4)<br>
 [Part 4: Recommendations & Next Steps](#section_5)<br>
-[Part 4: Presentation Sample](#section_6)<br>
+[Part 5: Presentation Sample](#section_6)<br>
 [Addendum: Notes on the Marketing Campaign Analysis](#section_7)<br>
 
 <a id='section_1'></a>
