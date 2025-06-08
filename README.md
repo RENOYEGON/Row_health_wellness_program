@@ -155,7 +155,7 @@ You can find the SQL code for the dataset I created in SQL [here](sql/campaign_p
 <b>Technical Analysis:</b><br>
 For this section, I used Tableau exclusively to create a brand awareness dashboard. My data came from the marketing campaign dataset I created for my Excel analysis.
 
-My Tableau dashboard incorporates KPIs, filters, tables, bar charts, and box-and-whisker plots.
+My Tableau dashboard incorporates KPIs, filters, tables, bar charts, and scatter plot.
 
 Here is a peek at what my dashboard looks like:
 
